@@ -1,0 +1,19 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"FANQIE",
+  "snapshot_date":"2026-09-18",
+  "note":"内部选题模型，不是番茄官方评分。任何HARD不合规候选直接淘汰。",
+  "hard_gates":["内容发布合规","无明显版权/洗稿风险","可持续完成目标篇幅","不依赖刷量或平台漏洞"],
+  "dimensions":[
+    {"id":"hook","name":"首章钩子与进入事件速度","weight":15},
+    {"id":"core_setting","name":"核心设定辨识度与一句话传播力","weight":15},
+    {"id":"character","name":"主角动机、成长弧与人物关系张力","weight":15},
+    {"id":"long_arc","name":"长期因果链与100章升级空间","weight":15},
+    {"id":"payoff","name":"持续兑现能力与有效爽/情绪回报","weight":10},
+    {"id":"originality","name":"原创差异化与反同质化","weight":15},
+    {"id":"current_fit","name":"当前官方赛道/活动适配","weight":5},
+    {"id":"ip","name":"IP/视觉化/改编潜力","weight":5},
+    {"id":"execution","name":"AI稳定生产与连续性可控性","weight":5}
+  ],
+  "rules":{"max_score":100,"current_activity_expiry_penalty":"活动过期后current_fit不得继续按该活动加分","winner":"最高分只是推荐候选，最终仍按V4.3灵感裁判和用户选择流程执行"}
+}

@@ -1,0 +1,26 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"FANQIE",
+  "platform_name":"番茄小说",
+  "snapshot_date":"2026-09-18",
+  "status":"READY",
+  "evidence_priority":["HARD","CURRENT_VALID","GUIDE","DERIVED"],
+  "required_rule":"任何CURRENT文件在使用前必须按当前日期检查有效期；历史数值门槛不得覆盖现行创作中心显示。",
+  "files":{
+    "overview":"平台/番茄小说/00_平台总览与AI调用说明.md",
+    "content_hard":"平台/番茄小说/01_HARD_内容发布规范与违规红线.md",
+    "contract_hard":"平台/番茄小说/02_HARD_签约实名合同与收益制度.md",
+    "recommend_hard":"平台/番茄小说/03_HARD_推荐验证榜单与多书名.md",
+    "finish_hard":"平台/番茄小说/04_HARD_完结续签与作品生命周期.md",
+    "activities":"平台/番茄小说/05_CURRENT_2026活动与征文_2026-09-18.md",
+    "writing_guide":"平台/番茄小说/06_GUIDE_开篇节奏人物伏笔官方指南.md",
+    "category_guide":"平台/番茄小说/07_GUIDE_题材赛道与IP改编方向.md",
+    "copyright_ai":"平台/番茄小说/08_HARD_原创版权低质治理与AI生产边界.md",
+    "ai_execution":"平台/番茄小说/09_DERIVED_AI自动创作执行规则.md",
+    "selection":"平台/番茄小说/10_DERIVED_自动选题评分规则.json",
+    "roles":"平台/番茄小说/11_角色调用矩阵.json",
+    "sources":"平台/番茄小说/12_官方来源索引.json",
+    "refresh":"平台/番茄小说/13_更新失效与快照策略.md",
+    "activity_snapshot":"平台/番茄小说/快照/2026-09-18_当前活动.json"
+  }
+}

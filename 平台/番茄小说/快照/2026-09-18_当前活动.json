@@ -1,0 +1,20 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"FANQIE",
+  "snapshot_date":"2026-09-18",
+  "source":"https://fanqienovel.com/writer/zone/solicit-activity",
+  "activities":[
+    {"name":"拾墨续弦，续章成韵｜限时续更完结活动","start":"2026-09-16","end":"2026-09-30","status":"ACTIVE","scope":"受邀既有作品","new_book_signal":"LOW","notes":"续更/完结激励，非新书征文"},
+    {"name":"落笔成笺，文载琼篇｜优质内容专项扶持","start":"2026-08-01","end":"2026-11-30","status":"ACTIVE","scope":"全品类签约作品","new_book_signal":"MEDIUM"},
+    {"name":"西方题材哥伦布计划","start":"2026-08-01","end":"2026-09-30","status":"ACTIVE","scope":"短故事","new_book_signal":"SHORT_ONLY"},
+    {"name":"长风问道·墨载乾坤","start":"2026-08-06","end":"2026-09-30","status":"ACTIVE","scope":"玄幻/仙侠/历史长篇","new_book_signal":"HIGH"},
+    {"name":"短故事IP回响计划第二期","start":"2026-08-01","end":"2026-09-30","status":"ACTIVE","scope":"短故事/创新/IP","new_book_signal":"SHORT_ONLY"},
+    {"name":"IP金品共创计划","start":"2026-06-21","end":"2026-09-30","status":"ACTIVE","scope":"短故事14品类","new_book_signal":"SHORT_ONLY"},
+    {"name":"千字万金五百万激励计划第三期","start":"2026-06-21","end":"2026-09-30","status":"ACTIVE","scope":"短故事","new_book_signal":"SHORT_ONLY"},
+    {"name":"2026番茄网文神启计划","start":null,"end":null,"status":"LONG_TERM","scope":"长篇原创精品/IP","new_book_signal":"HIGH"},
+    {"name":"2026年番茄小说年度作家福利","start":"2026-01-01","end":"2026-12-31","status":"ACTIVE","scope":"作者福利矩阵","new_book_signal":"MEDIUM"},
+    {"name":"2026完本续签","start":null,"end":null,"status":"LONG_TERM","scope":"完结/续签","new_book_signal":"LOW"},
+    {"name":"作家任务","start":null,"end":null,"status":"LONG_TERM","scope":"创作运营任务","new_book_signal":"LOW"}
+  ],
+  "expiry_rule":"系统使用时若当前日期晚于end，自动视为EXPIRED；不得继续以该活动给新书选题加分。"
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"FANQIE",
+  "verified_at":"2026-09-18",
+  "policy":"优先保存官方链接、标题、日期、用途；网页正文不在学院大段复制，只保存规则摘要。",
+  "sources":[
+    {"type":"OFFICIAL_HUB","title":"番茄作家专区","url":"https://fanqienovel.com/writer/zone","use":"最新通知、教程、活动总入口"},
+    {"type":"OFFICIAL_ACTIVITY","title":"创作活动","url":"https://fanqienovel.com/writer/zone/solicit-activity","use":"当前/往期活动及有效期"},
+    {"type":"OFFICIAL_RULE","title":"番茄平台内容发布规范","url":"https://fanqienovel.com/writer/zone/article/7237084151751376957","published":"2025-02-26"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"关于整治大规模量产低质内容的公告","url":"https://fanqienovel.com/writer/zone/article/7602950185735438398","published":"2026-02-04"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"关于加强低质内容治理公告（5月）","url":"https://fanqienovel.com/writer/zone/article/7642544663915675672","published":"2026-05-22"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"低质治理公告（7月）","url":"https://fanqienovel.com/writer/zone/article/7672294500500258840","published":"2026-08-10"},
+    {"type":"OFFICIAL_GOVERNANCE_INDEX","title":"低质治理公告（8月）","url":"https://fanqienovel.com/writer/zone/notice","published":"2026-09-09","note":"本次通过官方通知索引确认，正文细节未写入学院"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"治理作品阅读数据刷量行为公告","url":"https://fanqienovel.com/writer/zone/article/7603060375050797081","published":"2026-02-05"},
+    {"type":"OFFICIAL_RULE","title":"签约常见问题","url":"https://fanqienovel.com/writer/zone/article/7645150408599404606","published":"2026-05-30"},
+    {"type":"OFFICIAL_RULE","title":"签约流程详解","url":"https://fanqienovel.com/writer/zone/article/7198471813561581605"},
+    {"type":"OFFICIAL_RULE","title":"推荐验证期规则全指南","url":"https://fanqienovel.com/writer/zone/article/7659317147297923134","published":"2026-07-08"},
+    {"type":"OFFICIAL_RULE","title":"长篇网文推荐验证流程调整通知","url":"https://fanqienovel.com/writer/zone/article/7602553801446260761","published":"2026-02-11"},
+    {"type":"OFFICIAL_RANK","title":"番茄小说排行榜说明","url":"https://fanqienovel.com/rank","verified":"2026-09-18"},
+    {"type":"OFFICIAL_INCOME","title":"平台稿费&福利内容大揭秘","url":"https://fanqienovel.com/writer/zone/article/7632280421778079806","published":"2026-04-24"},
+    {"type":"OFFICIAL_WELFARE","title":"2026年番茄小说年度作家福利","url":"https://fanqienovel.com/writer/zone/article/7587262439981318169","verified":"2026-09-18"},
+    {"type":"OFFICIAL_COMPLETION","title":"2026完本续签","url":"https://fanqienovel.com/writer/zone/article/7586894620252979225","published":"2026-06-15"},
+    {"type":"OFFICIAL_GUIDE","title":"2026番茄网文神启计划","url":"https://fanqienovel.com/writer/zone/article/7642986443425447961","published":"2026-05-25"},
+    {"type":"OFFICIAL_NOTICE_INDEX","title":"作家专区通知索引","url":"https://fanqienovel.com/writer/zone/notice","verified":"2026-09-18"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"短故事极端违规内容专项治理公告","url":"https://fanqienovel.com/writer/zone/article/7662315418110918718","published":"2026-07-14"},
+    {"type":"OFFICIAL_RULE","title":"长篇网文发文规则（第二版）上线通知","url":"https://fanqienovel.com/writer/zone/article/7639950766869839897","published":"2026-05-21"}
+  ],
+  "historical_warning":"历史官方规则可以引用为演进背景，但签约、推荐、福利等实时资格必须以当前创作中心/最新官方页面为准。"
+}
