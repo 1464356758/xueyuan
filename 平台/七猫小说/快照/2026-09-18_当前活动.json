@@ -1,0 +1,14 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIMAO",
+  "snapshot_date":"2026-09-18",
+  "activities":[
+    {"name":"第七届七猫现实题材征文大赛暨澎湃·镜相第四届非虚构写作大赛","source_level":"OFFICIAL_VISIBLE+CURRENT_CORROBORATED","status":"ACTIVE","start":"2026-09-17","end":"2027-03-31","scope":"现实题材小说/非虚构等","new_book_signal":"HIGH_FOR_REALISM","notes":"官方作家入口可见；截止/奖金细节来自2026-09-17公开报道，正式投稿前回官方活动页复核。"},
+    {"name":"女频快闪征文2026第10期：听懂万物","source_level":"OFFICIAL_VISIBLE","status":"ACTIVE_VISIBLE","start":null,"end":null,"scope":"女频快闪征文","new_book_signal":"MEDIUM","notes":"官方入口可见，但完整细则未稳定获取，不推断奖励/截止。"},
+    {"name":"纵横中文网男频快闪征文202608期：乱世风华","source_level":"OFFICIAL_VISIBLE_CROSS_PLATFORM","status":"ACTIVE_VISIBLE","scope":"纵横男频","new_book_signal":"OTHER_PLATFORM"},
+    {"name":"纵横中文网男频快闪征文：幻想仙侠","source_level":"OFFICIAL_VISIBLE_CROSS_PLATFORM","status":"ACTIVE_VISIBLE","scope":"纵横男频","new_book_signal":"OTHER_PLATFORM"},
+    {"name":"2026历史主题征文（转载线索）","source_level":"SECONDARY_ONLY","status":"UNVERIFIED","start":"2026-02-01","end":"2026-12-31","scope":"历史","new_book_signal":"DISCOVERY_ONLY"},
+    {"name":"2026男频大征文（转载线索）","source_level":"SECONDARY_ONLY","status":"UNVERIFIED","start":"2026-07-10","end":"2027-06-30","scope":"男频多题材","new_book_signal":"DISCOVERY_ONLY"}
+  ],
+  "expiry_rule":"只有官方且确认适用七猫的活动才可进入自动选题加分；过期归零；SECONDARY_ONLY与OTHER_PLATFORM不加硬分。"
+}

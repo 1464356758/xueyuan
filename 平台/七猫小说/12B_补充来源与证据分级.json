@@ -1,0 +1,13 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIMAO",
+  "verified_at":"2026-09-18",
+  "policy":"SECONDARY仅用于发现活动、交叉核验和市场观察，不能覆盖官方HARD；投稿/奖金/合同/截止时间必须回官方页复核。",
+  "secondary_sources":[
+    {"title":"第七届七猫现实题材征文大赛启动报道","url":"https://hea.china.com/articles/20260917/202609171960518.html","published":"2026-09-17","confidence":"HIGH_CURRENT_CORROBORATION","facts":["征稿至2027-03-31","47部作品","总奖金110万元"]},
+    {"title":"澎湃新闻｜现实写作的两种抵达","url":"https://www.thepaper.cn/newsDetail_forward_34089076","published":"2026-09-17","confidence":"HIGH_CURRENT_CORROBORATION"},
+    {"title":"七猫2026历史主题征文转载","url":"https://www.wangwen666.com/post/83.html","confidence":"SECONDARY_ONLY"},
+    {"title":"2026七猫男频大征文转载","url":"https://news.chenggua.com/detail/36697.html","confidence":"SECONDARY_ONLY"}
+  ],
+  "cross_platform_warning":"纵横官网2026福利可用于理解集团分发生态，但纵横签约/全勤/月票/分成不等于七猫自有政策。"
+}

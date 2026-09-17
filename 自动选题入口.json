@@ -1,11 +1,11 @@
 {
-  "schema_version":"1.0",
+  "schema_version":"1.1",
   "academy_version":"2026.09.18",
   "platform_selector":{
     "番茄":{"platform_id":"FANQIE","entry":"平台/番茄小说/入口.json","selection_rules":"平台/番茄小说/10_DERIVED_自动选题评分规则.json","status":"READY"},
-    "七猫":{"platform_id":"QIMAO","status":"PENDING"},
+    "七猫":{"platform_id":"QIMAO","entry":"平台/七猫小说/入口.json","selection_rules":"平台/七猫小说/10_DERIVED_自动选题评分规则.json","status":"READY"},
     "起点":{"platform_id":"QIDIAN","status":"PENDING"},
     "豆瓣":{"platform_id":"DOUBAN","status":"PENDING"}
   },
-  "instruction":"APP选择平台后，只读取该平台入口及其角色调用矩阵；不得跨平台混用规则，除非总监明确进行跨平台研究。"
+  "instruction":"APP选择平台后，只读取该平台入口及其角色调用矩阵；不得跨平台混用规则。七猫尤其禁止把纵横/奇妙签约福利自动当成七猫自有合同条款。"
 }

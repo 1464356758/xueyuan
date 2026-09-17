@@ -1,0 +1,17 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIMAO",
+  "base":"平台/七猫小说/",
+  "roles":{
+    "INSPIRATION":["00_平台总览与AI调用说明.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_题材赛道市场与榜单扫描.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","10_DERIVED_自动选题评分规则.json","20_DERIVED_七猫纵横奇妙合同体系隔离规则.md"],
+    "IDEA_JUDGE":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","03_HARD_投稿签约评估新书测试与分发边界.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_题材赛道市场与榜单扫描.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","10_DERIVED_自动选题评分规则.json"],
+    "DIRECTOR":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","02_HARD_实名签约合同授权与收益边界.md","03_HARD_投稿签约评估新书测试与分发边界.md","04_HARD_更新全勤提价与异常更新边界.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_题材赛道市场与榜单扫描.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","13_更新失效与快照策略.md","14_HARD_作品发布章节审核与作品管理.md","15_HARD_账号实名签约资料与隐私边界.md","16_GUIDE_书名简介主角标签封面与包装.md","17_GUIDE_数据诊断新书测试留存与读者反馈.md","18_CURRENT_最新公告与活动监控_2026-09-18.md","19_DERIVED_100章长篇七猫适配模板.md","20_DERIVED_七猫纵横奇妙合同体系隔离规则.md","21_DERIVED_规则冲突与版本裁决.md"],
+    "WRITER_A":["01_HARD_内容发布规范与违规红线.md","04_HARD_更新全勤提价与异常更新边界.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","19_DERIVED_100章长篇七猫适配模板.md"],
+    "WRITER_B":["01_HARD_内容发布规范与违规红线.md","04_HARD_更新全勤提价与异常更新边界.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","19_DERIVED_100章长篇七猫适配模板.md"],
+    "WRITER_C":["01_HARD_内容发布规范与违规红线.md","04_HARD_更新全勤提价与异常更新边界.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","19_DERIVED_100章长篇七猫适配模板.md"],
+    "CHAPTER_JUDGE":["01_HARD_内容发布规范与违规红线.md","03_HARD_投稿签约评估新书测试与分发边界.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","17_GUIDE_数据诊断新书测试留存与读者反馈.md"],
+    "LOGIC_REVIEWER":["01_HARD_内容发布规范与违规红线.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","19_DERIVED_100章长篇七猫适配模板.md"],
+    "STYLE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","16_GUIDE_书名简介主角标签封面与包装.md"],
+    "STAGE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","03_HARD_投稿签约评估新书测试与分发边界.md","04_HARD_更新全勤提价与异常更新边界.md","06_GUIDE_题材赛道市场与榜单扫描.md","07_GUIDE_开篇爽点人物节奏与长篇结构.md","08_HARD_原创版权侵权与AI生产边界.md","17_GUIDE_数据诊断新书测试留存与读者反馈.md","19_DERIVED_100章长篇七猫适配模板.md"]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIMAO",
+  "verified_at":"2026-09-18",
+  "official_sources":[
+    {"id":"Q1","title":"七猫作家助手｜成为作家","url":"https://zhushou.qimao.com/become-author","use":["当前福利概览","当前可见征文","作家学院入口"],"freshness":"CURRENT"},
+    {"id":"Q2","title":"七猫作家助手用户服务协议","url":"https://zhushou.qimao.com/writer-rules/68464fdfe4a81e7ec312f874/","use":["用户行为","管理规范","知识产权","平台体系"],"last_known_update":"2025-07-28"},
+    {"id":"Q3","title":"原创作品登载规则和服务约定","url":"https://zhushou.qimao.com/writer-rules/68466f6ae4a81e7ec312f8cd/","use":["实名","内容红线","原创","侵权","稿酬/签约边界"]},
+    {"id":"Q4","title":"七猫作家助手基本业务功能隐私政策","url":"https://zhushou.qimao.com/writer-rules/6790a675e4a81e7ec312dcbf/","use":["注册","创建作品","数据查询","签约资料"],"last_known_update":"2025-10-11"},
+    {"id":"Q5","title":"新手作者快速入门攻略","url":"https://www.qimao.com/gonggao/62208650921d7d382c75de46/","use":["签约评估概念","新书测试解释","稳定更新","扫榜方法"],"published":"2022-03-03","freshness":"HISTORICAL_GUIDE"},
+    {"id":"Q6","title":"读者错字反馈功能","url":"https://www.qimao.com/gonggao/624299f733c8c945234c3d56/","use":["读者纠错","章节修改后审核"],"published":"2022-03-29"},
+    {"id":"Q7","title":"生成式强化学习在七猫小说内容扶持业务的实践","url":"https://tech.qimao.com/sheng-cheng-shi-qiang-hua-xue-xi-zai-qi-mao-xiao-shuo-nei-rong-fu-chi-ye-wu-de-shi-jian/","use":["2026优质新书扶持","动态流量分配"],"published":"2026-05-06"},
+    {"id":"Q8","title":"七猫版权中心","url":"https://ip.qimao.com/","use":["版权/IP衍生"]},
+    {"id":"Q9","title":"七猫中文网首页/书库","url":"https://www.qimao.com/","use":["分类","榜单市场扫描"],"freshness":"DYNAMIC"}
+  ]
+}

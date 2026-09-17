@@ -1,0 +1,10 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIMAO",
+  "snapshot_date":"2026-09-18",
+  "purpose":"七猫新书候选内部评分，不代表七猫官方签约/推荐算法。",
+  "weights":{"platform_market_fit":18,"opening_hook_and_early_readability":18,"originality_and_collision_risk":18,"long_form_100_chapter_expandability":14,"character_conflict_engine":12,"current_activity_fit":8,"ip_adaptation_potential":7,"compliance_and_rights_safety":5},
+  "hard_reject":["与单一本热门作品高度同构","依赖洗稿或无授权IP","无法支撑80-100万字","明显违反平台内容规范","现实人物/公共事件高风险且无核验能力"],
+  "activity_scoring":{"OFFICIAL_ACTIVE":8,"OFFICIAL_VISIBLE_DETAILS_UNKNOWN":4,"SECONDARY_ONLY":0,"EXPIRED":0,"OTHER_PLATFORM":0},
+  "rules":["分数只用于内部排序，不预测签约或推荐","原创/合规触发hard_reject时直接淘汰","活动分不得覆盖原创性与长篇可扩展性"]
+}
