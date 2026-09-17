@@ -1,0 +1,18 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"FANQIE",
+  "verified_at":"2026-09-18",
+  "sources":[
+    {"type":"OFFICIAL_ACCOUNT","title":"不实名=白写？一篇讲透实名认证的所有疑问","url":"https://fanqienovel.com/writer/zone/article/7642566907920384062","published":"2026-05-22"},
+    {"type":"OFFICIAL_PRODUCT","title":"作家中心升级为创作中心","url":"https://fanqienovel.com/writer/zone/article/7670381123347693593","published":"2026-08-05"},
+    {"type":"OFFICIAL_PRODUCT","title":"多书名实验一站式教学","url":"https://fanqienovel.com/writer/zone/article/7604697758464753688","published":"2026-02-11"},
+    {"type":"OFFICIAL_PRODUCT","title":"多书名实验常见问题","url":"https://fanqienovel.com/writer/zone/article/7609627643553529918","published":"2026-02-22"},
+    {"type":"OFFICIAL_COMMUNITY","title":"广场涨量实战","url":"https://fanqienovel.com/writer/zone/article/7672323371945689150","published":"2026-08-10"},
+    {"type":"OFFICIAL_RULE","title":"长篇网文发文规则（第二版）上线通知","url":"https://fanqienovel.com/writer/zone/article/7639950766869839897","published":"2026-05-21"},
+    {"type":"OFFICIAL_REVIEW","title":"长篇网文审核问题透传优化通知","url":"https://fanqienovel.com/writer/zone/article/7593241109262778430","published":"2026-01-09"},
+    {"type":"OFFICIAL_RISK","title":"长篇网文章节风险提示功能上线通知","url":"https://fanqienovel.com/writer/zone/article/7553258797649625113","published":"2025-09-23"},
+    {"type":"OFFICIAL_PRODUCT","title":"多封面功能改版，支持查看封面效果排名","url":"https://fanqienovel.com/writer/zone/article/7430776144493821977","verified":"2026-09-18"},
+    {"type":"OFFICIAL_GOVERNANCE","title":"治理作品阅读数据刷量行为公告","url":"https://fanqienovel.com/writer/zone/article/7623237626232832025","published":"2026-03-31"},
+    {"type":"OFFICIAL_TUTORIAL","title":"番茄作家课堂","url":"https://fanqienovel.com/writer/zone/tutorial?enter_tutorial=class_zone","verified":"2026-09-18"}
+  ]
+}

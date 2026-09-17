@@ -1,5 +1,5 @@
 {
-  "schema_version":"1.0",
+  "schema_version":"1.1",
   "platform_id":"FANQIE",
   "platform_name":"番茄小说",
   "snapshot_date":"2026-09-18",
@@ -20,7 +20,15 @@
     "selection":"平台/番茄小说/10_DERIVED_自动选题评分规则.json",
     "roles":"平台/番茄小说/11_角色调用矩阵.json",
     "sources":"平台/番茄小说/12_官方来源索引.json",
+    "sources_ops":"平台/番茄小说/12B_补充官方来源索引_作品运营.json",
     "refresh":"平台/番茄小说/13_更新失效与快照策略.md",
+    "publishing":"平台/番茄小说/14_HARD_发文审核章节与作品管理.md",
+    "account":"平台/番茄小说/15_HARD_实名认证账号安全与申诉.md",
+    "packaging":"平台/番茄小说/16_GUIDE_书名简介标签封面与包装.md",
+    "analytics":"平台/番茄小说/17_GUIDE_创作中心数据诊断与社区运营.md",
+    "notice_watch":"平台/番茄小说/18_CURRENT_最新公告监控_2026-09-18.md",
+    "long_novel":"平台/番茄小说/19_DERIVED_100章长篇番茄适配模板.md",
+    "conflict":"平台/番茄小说/20_DERIVED_规则冲突与版本裁决.md",
     "activity_snapshot":"平台/番茄小说/快照/2026-09-18_当前活动.json"
   }
 }

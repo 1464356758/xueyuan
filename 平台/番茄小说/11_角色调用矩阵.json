@@ -1,17 +1,17 @@
 {
-  "schema_version":"1.0",
+  "schema_version":"1.1",
   "platform_id":"FANQIE",
   "base":"平台/番茄小说/",
   "roles":{
-    "INSPIRATION":["00_平台总览与AI调用说明.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","10_DERIVED_自动选题评分规则.json"],
-    "IDEA_JUDGE":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","03_HARD_推荐验证榜单与多书名.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","10_DERIVED_自动选题评分规则.json"],
-    "DIRECTOR":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","02_HARD_签约实名合同与收益制度.md","03_HARD_推荐验证榜单与多书名.md","04_HARD_完结续签与作品生命周期.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","13_更新失效与快照策略.md"],
-    "WRITER_A":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "WRITER_B":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "WRITER_C":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "CHAPTER_JUDGE":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "LOGIC_REVIEWER":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "STYLE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"],
-    "STAGE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","03_HARD_推荐验证榜单与多书名.md","04_HARD_完结续签与作品生命周期.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md"]
+    "INSPIRATION":["00_平台总览与AI调用说明.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","10_DERIVED_自动选题评分规则.json","16_GUIDE_书名简介标签封面与包装.md","18_CURRENT_最新公告监控_2026-09-18.md"],
+    "IDEA_JUDGE":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","03_HARD_推荐验证榜单与多书名.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","10_DERIVED_自动选题评分规则.json","16_GUIDE_书名简介标签封面与包装.md"],
+    "DIRECTOR":["00_平台总览与AI调用说明.md","01_HARD_内容发布规范与违规红线.md","02_HARD_签约实名合同与收益制度.md","03_HARD_推荐验证榜单与多书名.md","04_HARD_完结续签与作品生命周期.md","05_CURRENT_2026活动与征文_2026-09-18.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","13_更新失效与快照策略.md","14_HARD_发文审核章节与作品管理.md","15_HARD_实名认证账号安全与申诉.md","16_GUIDE_书名简介标签封面与包装.md","17_GUIDE_创作中心数据诊断与社区运营.md","18_CURRENT_最新公告监控_2026-09-18.md","19_DERIVED_100章长篇番茄适配模板.md","20_DERIVED_规则冲突与版本裁决.md"],
+    "WRITER_A":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","14_HARD_发文审核章节与作品管理.md","19_DERIVED_100章长篇番茄适配模板.md"],
+    "WRITER_B":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","14_HARD_发文审核章节与作品管理.md","19_DERIVED_100章长篇番茄适配模板.md"],
+    "WRITER_C":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","14_HARD_发文审核章节与作品管理.md","19_DERIVED_100章长篇番茄适配模板.md"],
+    "CHAPTER_JUDGE":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","14_HARD_发文审核章节与作品管理.md","19_DERIVED_100章长篇番茄适配模板.md"],
+    "LOGIC_REVIEWER":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","19_DERIVED_100章长篇番茄适配模板.md"],
+    "STYLE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","14_HARD_发文审核章节与作品管理.md"],
+    "STAGE_REVIEWER":["01_HARD_内容发布规范与违规红线.md","03_HARD_推荐验证榜单与多书名.md","04_HARD_完结续签与作品生命周期.md","06_GUIDE_开篇节奏人物伏笔官方指南.md","07_GUIDE_题材赛道与IP改编方向.md","08_HARD_原创版权低质治理与AI生产边界.md","09_DERIVED_AI自动创作执行规则.md","17_GUIDE_创作中心数据诊断与社区运营.md","19_DERIVED_100章长篇番茄适配模板.md","20_DERIVED_规则冲突与版本裁决.md"]
   }
 }
