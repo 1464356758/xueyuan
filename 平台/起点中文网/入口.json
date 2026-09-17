@@ -1,0 +1,33 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIDIAN",
+  "platform_name":"起点中文网",
+  "snapshot_date":"2026-09-18",
+  "status":"READY",
+  "evidence_priority":["HARD","CURRENT_VALID","GUIDE","DERIVED"],
+  "files":{
+    "overview":"平台/起点中文网/00_平台总览与AI调用说明.md",
+    "content_hard":"平台/起点中文网/01_HARD_内容安全与违规红线.md",
+    "contract":"平台/起点中文网/02_HARD_作者实名签约合同与收益边界.md",
+    "publishing":"平台/起点中文网/03_HARD_新建作品发文审核VIP与更新规则.md",
+    "ranking":"平台/起点中文网/04_HARD_榜单月票推荐票与刷量治理.md",
+    "current":"平台/起点中文网/05_CURRENT_2026活动公告与榜单快照_2026-09-18.md",
+    "writing":"平台/起点中文网/06_GUIDE_开篇追读订阅与付费章节节奏.md",
+    "category":"平台/起点中文网/07_GUIDE_题材赛道市场与IP方向.md",
+    "copyright_ai":"平台/起点中文网/08_HARD_原创版权低质与AI边界.md",
+    "ai_execution":"平台/起点中文网/09_DERIVED_AI自动创作执行规则.md",
+    "selection":"平台/起点中文网/10_DERIVED_自动选题评分规则.json",
+    "roles":"平台/起点中文网/11_角色调用矩阵.json",
+    "sources":"平台/起点中文网/12_官方来源索引.json",
+    "refresh":"平台/起点中文网/13_更新失效与快照策略.md",
+    "packaging":"平台/起点中文网/14_HARD_书名简介封面与作品信息.md",
+    "account":"平台/起点中文网/15_HARD_账号实名客服与隐私边界.md",
+    "analytics":"平台/起点中文网/16_GUIDE_数据诊断书友互动与运营官.md",
+    "long_novel":"平台/起点中文网/17_DERIVED_100章长篇起点适配模板.md",
+    "ecosystem":"平台/起点中文网/18_DERIVED_阅文生态站点隔离规则.md",
+    "paid_model":"平台/起点中文网/19_GUIDE_付费阅读订阅月票与IP价值模型.md",
+    "conflict":"平台/起点中文网/20_DERIVED_规则冲突与版本裁决.md",
+    "rank_snapshot":"平台/起点中文网/快照/2026-09-18_榜单与市场信号.json",
+    "activity_snapshot":"平台/起点中文网/快照/2026-09-18_活动与公告.json"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version":"1.0",
+  "verified":"2026-09-18",
+  "sources":[
+    {"type":"OFFICIAL","name":"阅文作家专区帮助中心","url":"https://help.yuewen.com/helpcenter/pc/menu?_noheader=1&siteId=2","covers":["新建作品","审核","更新","简介","签约帮助入口","合同/版权入口"]},
+    {"type":"OFFICIAL","name":"起点读者帮助中心-月票","url":"https://help.yuewen.com/helpcenter/pc/menu?cateId=1&qId=10&siteId=0","covers":["月票","福利月票","刷票治理"]},
+    {"type":"OFFICIAL","name":"起点读者帮助中心-推荐票","url":"https://help.yuewen.com/helpcenter/pc/menu?cateId=1&qId=12&siteId=0","covers":["推荐票","刷票治理"]},
+    {"type":"OFFICIAL","name":"起点中文网","url":"https://www.qidian.com/","covers":["当前分类","当前榜单","新书榜","市场快照"]},
+    {"type":"OFFICIAL","name":"起点新书榜创作学堂说明","url":"https://write.qq.com/portal/content/28975448809513701","covers":["新书榜规则","2026-06-15更新标记"]},
+    {"type":"OFFICIAL","name":"阅文集团-起点读书","url":"https://www.yuewen.com/app/?type=appqd","covers":["平台定位","人工/智能推荐","社区互动"]},
+    {"type":"OFFICIAL","name":"阅文集团新闻","url":"https://www.yuewen.com/news","covers":["2026事件","515书粉节","IP与AI生态"]},
+    {"type":"OFFICIAL","name":"起点运营官说明","url":"https://help.yuewen.com/helpcenter/content?_mode=old&cateId=12028&f=jump&qId=12032&siteId=10","covers":["书友圈","运营官","本章说","角色圈"]},
+    {"type":"OFFICIAL","name":"阅文用户服务协议","url":"https://passport.yuewen.com/pact.html?mobile=0","covers":["阅文站点范围","用户服务"]}
+  ]
+}

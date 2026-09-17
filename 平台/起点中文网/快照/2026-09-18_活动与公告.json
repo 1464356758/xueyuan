@@ -1,0 +1,11 @@
+{
+  "snapshot_date":"2026-09-18",
+  "platform_id":"QIDIAN",
+  "events":[
+    {"name":"起点读书24周年·起点515书粉节","date":"2026-05-21","status":"PAST_EVENT","type":"reader_author_ip_ecosystem","new_book_submission":false,"source":"https://www.yuewen.com/news"},
+    {"name":"起点新书榜规则更新","date":"2026-06-15","status":"CURRENT_RULE_SIGNAL","type":"ranking_rule_update","source":"https://write.qq.com/portal/content/28975448809513701"},
+    {"name":"阅文AI漫剧大赛/火种计划","start":"2026-03-28","end":"2026-07-31","status":"SUBMISSION_CLOSED","type":"AI_comic_drama","new_book_submission":false,"notes":"阅文集团活动，不得当作起点长篇小说征文"}
+  ],
+  "current_long_novel_contest":"NOT_VERIFIED",
+  "rule":"未从官方确认仍开放的起点长篇征文时，不得虚构活动加分。"
+}
