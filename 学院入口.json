@@ -1,12 +1,9 @@
 {
-  "schema_version":"1.2",
-  "academy_version":"2026.09.18",
-  "repository":"https://github.com/1464356758/xueyuan",
-  "source_policy":"OFFICIAL_FIRST",
+  "schema_version":"1.3","academy_version":"2026.09.18","repository":"https://github.com/1464356758/xueyuan","source_policy":"OFFICIAL_FIRST",
   "platforms":{
     "番茄":{"platform_id":"FANQIE","display_name":"番茄小说","status":"READY","entry":"平台/番茄小说/入口.json","last_verified":"2026-09-18"},
     "七猫":{"platform_id":"QIMAO","display_name":"七猫小说/七猫中文网","status":"READY","entry":"平台/七猫小说/入口.json","last_verified":"2026-09-18"},
-    "起点":{"platform_id":"QIDIAN","display_name":"起点中文网","status":"READY","entry":"平台/起点中文网/入口.json","last_verified":"2026-09-18","notes":"默认指起点中文网男频主站；起点女生网、QQ阅读、创世、云起、红袖、起点国际必须隔离规则。"},
-    "豆瓣":{"platform_id":"DOUBAN","status":"PENDING"}
+    "起点":{"platform_id":"QIDIAN","display_name":"起点中文网","status":"READY","entry":"平台/起点中文网/入口.json","last_verified":"2026-09-18"},
+    "豆瓣":{"platform_id":"DOUBAN_READ","display_name":"豆瓣阅读","status":"READY","entry":"平台/豆瓣阅读/入口.json","last_verified":"2026-09-18","notes":"默认指read.douban.com原创小说平台，不是豆瓣网社区；两套规则必须隔离。"}
   }
 }

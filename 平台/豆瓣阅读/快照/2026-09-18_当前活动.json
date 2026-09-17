@@ -1,0 +1,8 @@
+{
+  "schema_version":"1.0","platform_id":"DOUBAN_READ","snapshot_date":"2026-09-18","activities":[
+    {"name":"第二届网文打卡攀登赛","start":"2026-03-04","end":"2027-02-26","status":"ACTIVE","scope":"长篇网文","signal":"HIGH","verified":"competition/all"},
+    {"name":"豆瓣阅读2026下半年品类激励活动","start":"2026-07-23","end":"2026-12-31","status":"ACTIVE","scope":"指定品类优质小说","signal":"HIGH","verified":"competition/all"},
+    {"name":"短剧漫剧向品类激励新增收稿方向","start":null,"end":null,"status":"CURRENT_UNVERIFIED_END","scope":"成长逆袭/历史元素/超现实悬疑与幻想科幻","signal":"MEDIUM","verified":"official bulletin 2026-09"}
+  ],
+  "expiry_rule":"end已过则EXPIRED；无end的CURRENT公告30天后重新核验；不得套用上一届赛事的奖金和字数细则。"
+}

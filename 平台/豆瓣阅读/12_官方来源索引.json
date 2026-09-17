@@ -1,0 +1,18 @@
+{
+  "schema_version":"1.0","snapshot_date":"2026-09-18","sources":[
+    {"topic":"使用协议","url":"https://read.douban.com/about/agreement","level":"HARD"},
+    {"topic":"社区指导原则","url":"https://read.douban.com/guideline","level":"HARD"},
+    {"topic":"作者帮助","url":"https://read.douban.com/helpcenter/ark_author/","level":"HARD"},
+    {"topic":"作品管理","url":"https://read.douban.com/helpcenter/works_management/","level":"HARD"},
+    {"topic":"签约","url":"https://read.douban.com/helpcenter/works_contract/","level":"HARD"},
+    {"topic":"签约福利","url":"https://read.douban.com/submit/contract_benefit","level":"HARD"},
+    {"topic":"定价/入V","url":"https://read.douban.com/helpcenter/pricing/","level":"HARD"},
+    {"topic":"作者福利","url":"https://read.douban.com/helpcenter/incentive/","level":"CURRENT"},
+    {"topic":"征文专区","url":"https://read.douban.com/competition/all","level":"CURRENT"},
+    {"topic":"原创首页","url":"https://read.douban.com/","level":"CURRENT"},
+    {"topic":"读者互动","url":"https://read.douban.com/helpcenter/reader_interaction/","level":"GUIDE"},
+    {"topic":"作品荣誉","url":"https://read.douban.com/submit/works_honors_intro","level":"GUIDE"},
+    {"topic":"出版影视动态","url":"https://read.douban.com/bulletins/saleofrights/","level":"GUIDE"},
+    {"topic":"纸书出版代理","url":"https://read.douban.com/press","level":"GUIDE"}
+  ]
+}

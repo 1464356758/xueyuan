@@ -1,0 +1,18 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"DOUBAN_READ",
+  "total":100,
+  "dimensions":[
+    {"name":"平台品类匹配","weight":10},
+    {"name":"人物与关系张力","weight":15},
+    {"name":"核心冲突与情绪价值","weight":15},
+    {"name":"原创差异化","weight":15},
+    {"name":"长篇可持续性","weight":15},
+    {"name":"阅读体验与章节推进","weight":10},
+    {"name":"出版影视短剧IP潜力","weight":10},
+    {"name":"当前活动/市场信号适配","weight":5},
+    {"name":"中文自然与表达质感","weight":5}
+  ],
+  "hard_gates":["违法违规风险=0","抄袭/洗稿风险=0","主要人物动机成立","100章主线可收束"],
+  "current_activity_bonus_rule":"活动必须ACTIVE且作品满足具体活动资格才允许在对应维度加分；过期或详情未核验不得加分。"
+}

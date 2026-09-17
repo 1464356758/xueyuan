@@ -1,0 +1,6 @@
+{
+  "schema_version":"1.0","platform_id":"DOUBAN_READ","platform_name":"豆瓣阅读","snapshot_date":"2026-09-18","status":"READY","evidence_priority":["HARD","CURRENT_VALID","GUIDE","DERIVED"],
+  "files":{
+    "overview":"平台/豆瓣阅读/00_平台总览与AI调用说明.md","content":"平台/豆瓣阅读/01_HARD_社区内容规范与违规红线.md","contract":"平台/豆瓣阅读/02_HARD_作者认证签约合同与收益制度.md","works":"平台/豆瓣阅读/03_HARD_作品类型章节发布修订与定价规则.md","copyright":"平台/豆瓣阅读/04_HARD_原创版权同人与账号体系边界.md","activities":"平台/豆瓣阅读/05_CURRENT_2026活动征文与品类激励_2026-09-18.md","writing":"平台/豆瓣阅读/06_GUIDE_开篇人物情绪节奏与读者体验.md","category":"平台/豆瓣阅读/07_GUIDE_题材赛道市场与版权IP方向.md","ai_boundary":"平台/豆瓣阅读/08_HARD_低质治理与AI生产边界.md","ai_execution":"平台/豆瓣阅读/09_DERIVED_AI自动创作执行规则.md","selection":"平台/豆瓣阅读/10_DERIVED_自动选题评分规则.json","roles":"平台/豆瓣阅读/11_角色调用矩阵.json","sources":"平台/豆瓣阅读/12_官方来源索引.json","refresh":"平台/豆瓣阅读/13_更新失效与快照策略.md","packaging":"平台/豆瓣阅读/14_GUIDE_书名简介分类标签封面与包装.md","analytics":"平台/豆瓣阅读/15_GUIDE_数据榜单读者互动与阶段诊断.md","long_novel":"平台/豆瓣阅读/16_DERIVED_100章长篇豆瓣阅读适配模板.md","ecosystem":"平台/豆瓣阅读/17_DERIVED_豆瓣阅读与豆瓣社区隔离规则.md","ip":"平台/豆瓣阅读/18_GUIDE_出版影视短剧与版权开发模型.md","commercial":"平台/豆瓣阅读/19_GUIDE_入V完本会员与读者互动模型.md","conflict":"平台/豆瓣阅读/20_DERIVED_规则冲突与版本裁决.md","activity_snapshot":"平台/豆瓣阅读/快照/2026-09-18_当前活动.json","market_snapshot":"平台/豆瓣阅读/快照/2026-09-18_市场与版权信号.json"
+  }
+}
