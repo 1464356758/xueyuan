@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "academy_version": "2026.09.18",
+  "repository": "https://github.com/1464356758/xueyuan",
+  "source_policy": "OFFICIAL_FIRST",
+  "platforms": {
+    "番茄": {
+      "platform_id": "FANQIE",
+      "display_name": "番茄小说",
+      "status": "READY",
+      "entry": "平台/番茄小说/入口.json",
+      "last_verified": "2026-09-18",
+      "notes": "官方资料优先；活动必须校验有效期；AI内部推导规则与平台官方规则分层保存。"
+    },
+    "七猫": {"platform_id": "QIMAO", "status": "PENDING"},
+    "起点": {"platform_id": "QIDIAN", "status": "PENDING"},
+    "豆瓣": {"platform_id": "DOUBAN", "status": "PENDING"}
+  }
+}
