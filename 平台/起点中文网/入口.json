@@ -1,10 +1,11 @@
 {
-  "schema_version":"1.0",
+  "schema_version":"1.1",
   "platform_id":"QIDIAN",
   "platform_name":"起点中文网",
   "snapshot_date":"2026-09-18",
   "status":"READY",
   "evidence_priority":["HARD","CURRENT_VALID","GUIDE","DERIVED"],
+  "required_rule":"男频、起点女生网、阅文集团级政策与历史政策必须分层；历史数值不得覆盖2026当前后台与现行规则。",
   "files":{
     "overview":"平台/起点中文网/00_平台总览与AI调用说明.md",
     "content_hard":"平台/起点中文网/01_HARD_内容安全与违规红线.md",
@@ -19,6 +20,7 @@
     "selection":"平台/起点中文网/10_DERIVED_自动选题评分规则.json",
     "roles":"平台/起点中文网/11_角色调用矩阵.json",
     "sources":"平台/起点中文网/12_官方来源索引.json",
+    "evidence_2026":"平台/起点中文网/12B_2026来源证据分级.json",
     "refresh":"平台/起点中文网/13_更新失效与快照策略.md",
     "packaging":"平台/起点中文网/14_HARD_书名简介封面与作品信息.md",
     "account":"平台/起点中文网/15_HARD_账号实名客服与隐私边界.md",
@@ -27,6 +29,7 @@
     "ecosystem":"平台/起点中文网/18_DERIVED_阅文生态站点隔离规则.md",
     "paid_model":"平台/起点中文网/19_GUIDE_付费阅读订阅月票与IP价值模型.md",
     "conflict":"平台/起点中文网/20_DERIVED_规则冲突与版本裁决.md",
+    "policy_isolation":"平台/起点中文网/21_DERIVED_男频女生网阅文与历史政策隔离规则.md",
     "rank_snapshot":"平台/起点中文网/快照/2026-09-18_榜单与市场信号.json",
     "activity_snapshot":"平台/起点中文网/快照/2026-09-18_活动与公告.json"
   }

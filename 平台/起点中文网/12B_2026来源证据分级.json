@@ -1,0 +1,22 @@
+{
+  "schema_version":"1.0",
+  "platform_id":"QIDIAN",
+  "snapshot_date":"2026-09-18",
+  "levels":{
+    "CURRENT_OFFICIAL":"2026仍可访问且内容对应当前功能/页面/榜单/协议",
+    "LONG_TERM_OFFICIAL":"官方长期制度或社区公约，未见终止声明，但使用时仍要看当前后台",
+    "HISTORICAL_OFFICIAL":"官方旧公告/旧活动/旧福利，只能做历史参考",
+    "MARKET_SIGNAL":"作品页、荣誉页、榜单、首页等可反映市场，但不能自动推导平台硬规则",
+    "COMMUNITY_REFERENCE":"用户书单、专栏、论坛等非官方规则来源，不得写入HARD"
+  },
+  "evidence":[
+    {"id":"QIDIAN_HOME_2026","level":"CURRENT_OFFICIAL","url":"https://www.qidian.com/","use":"当前分类、推荐位、白金/大神展示、市场信号"},
+    {"id":"QIDIAN_COMMUNITY_PACT","level":"LONG_TERM_OFFICIAL","url":"https://acts.qidian.com/pact/community_pact.html","use":"刷量、第三方软件、社区秩序与侵权治理"},
+    {"id":"QIDIAN_USER_PACT","level":"LONG_TERM_OFFICIAL","url":"https://acts.qidian.com/pact/userpact20220316.html","use":"创作发表、奖励与用户服务法律关系；具体作家合同仍以签署文本为准"},
+    {"id":"QIDIAN_STAR_PLAN_2020","level":"HISTORICAL_OFFICIAL","url":"https://acts.qidian.com/2020/2020_09/index.html","use":"月票奖励与低质/违禁例外的历史制度参考"},
+    {"id":"QD_GIRLS_STAR_PLAN","level":"HISTORICAL_OFFICIAL","url":"https://acts.qidian.com/2020/202010/qdns.html","use":"起点女生网阶段性福利和榜单机制历史参考，禁止套用男频"},
+    {"id":"QIDIAN_VIP_2015","level":"HISTORICAL_OFFICIAL","url":"https://acts.qidian.com/zt/ploy/20150520test2/gonggao/vip.htm","use":"旧VIP/推荐票制度演变，不作为2026门槛"},
+    {"id":"QIDIAN_HONOR_EXAMPLE","level":"MARKET_SIGNAL","url":"https://book.qidian.com/honor/1045391192","use":"当前荣誉徽章与结果型指标样例，不作为新书准入标准"}
+  ],
+  "hard_rule":"任何HISTORICAL_OFFICIAL或COMMUNITY_REFERENCE数值，不得进入2026新书签约、上架、推荐、白金或收益硬门槛。"
+}
